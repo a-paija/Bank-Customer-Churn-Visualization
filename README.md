@@ -23,9 +23,12 @@ Tableau makes this objective actionable through dynamic dashboards that reveal:
 - Why customers are leaving
 - Which segments require immediate intervention
 ```
-## 📈 Tableau Dashboards
+## 📈 Dynamic Interactive Tableau Dashboards
 
 ### 1. Customer Demographic Dashboard
+
+<img src="https://github.com/a-paija/Bank-Customer-Churn-Visualization/blob/main/Images/Customer%20Demographic.png" alt="Churn Rate by Geography" width="700" height="600"/>
+
 ```
 - Customer Distribution by Geography
 - Customer Credit Score Distribution
@@ -36,6 +39,10 @@ Tableau makes this objective actionable through dynamic dashboards that reveal:
 ```
 
 ### 2. Churn Demographic Dashboard
+
+<img src="https://github.com/a-paija/Bank-Customer-Churn-Visualization/blob/main/Images/Churn%20Demographic.png" alt="Churn Rate by Geography" width="700" height="600"/>
+
+
 ```
 - Dynamic Churn Rate and Bank Balance
 - Churn by Number of Products
@@ -54,5 +61,28 @@ Tableau makes this objective actionable through dynamic dashboards that reveal:
 | **4. Introduce Product-Bundle Incentives** | Bundled customers show higher engagement and lower churn. | Offer customizable bundles and tiered benefits to deepen customer commitment. |
 | **5. Deploy an Inactivity Alert System** | Customers often show declining activity before churning. | Set up automated inactivity alerts and personalized re-engagement workflows. |
 
+## 💼 Portfolio Highlights
 
+- **Data Visualization:** Interactive, executive-ready dashboards
+- **Analytical Insights:** Identified high-risk segments and actionable retention strategies
+- **Business Impact:** Translated Python predictive modeling into business-friendly visual analytics
+- **Technical Skills:** Tableau calculations, dynamic filtering, KPI visualization
 
+## 🔄 Methodology
+
+1. Imported cleaned and enriched dataset from Python project
+2. Created calculated fields for churn rates, percentages, and demographic splits
+3. Built interactive dashboards with:
+   - Filters: Geography, Activity Status, Number of Products
+   - Highlights: Churn vs Retained
+   - Visualizations: Maps, Bar Charts, Scatter Plots
+4. Developed actionable insights based on visual patterns
+5. Published to Tableau Public for stakeholder accessibility
+
+## 📌 Final Summary
+
+This Tableau project extends the Python-based churn analysis by translating insights into interactive dashboards. Stakeholders can quickly identify high-risk customers, explore churn patterns across demographics and products, and take proactive retention actions. The dashboards provide a visual, business-friendly interface to monitor churn, optimize engagement, and support data-driven decisions.
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/ajin.paija/viz/CustomerChurnDashboard_17650248694380/Story1)
+
+Data Source: [Maven Analytics](https://mavenanalytics.io/data-playground/bank-customer-churn)
