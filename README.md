@@ -27,7 +27,7 @@ Tableau makes this objective actionable through dynamic dashboards that reveal:
 
 ### 1. Customer Demographic Dashboard
 
-<img src="https://github.com/a-paija/Bank-Customer-Churn-Visualization/blob/main/Images/Customer%20Demographic.png" alt="Customer Demographic" width="700" height="600"/>
+<img src="https://github.com/a-paija/Bank-Customer-Churn-Visualization/blob/main/Images/Customer%20Demographics.png" alt="Customer Demographic" width="700" height="600"/>
 
 ```
 - Customer Distribution by Geography
